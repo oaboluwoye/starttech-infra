@@ -1,0 +1,6 @@
+aws_region   = "us-east-1"
+project_name = "starttech"
+environment  = "prod"
+
+# Replace with your public IP in /32 format
+my_ip = "YOUR_PUBLIC_IP/32"
